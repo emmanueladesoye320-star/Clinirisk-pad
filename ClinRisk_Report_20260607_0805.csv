@@ -1,0 +1,8 @@
+Patient,Age,HbA1c (%),ABI,Creatinine,Risk Score,Status,Action,Date
+Emmanuel A.,45,9.2,0.72,1.8,3 of 3,HIGH RISK,Urgent vascular referral,2026-06-07
+Adebayo T.,52,7.8,0.95,0.9,0 of 3,Low risk,Standard follow-up,2026-06-07
+Chukwu F.,67,11.1,0.65,2.4,3 of 3,HIGH RISK,Urgent vascular referral,2026-06-07
+Fatima M.,71,8.4,0.88,1.1,2 of 3,MODERATE RISK,Aggressive optimisation + monthly review,2026-06-07
+Tunde B.,38,10.3,0.61,2.9,3 of 3,HIGH RISK,Urgent vascular referral,2026-06-07
+Ngozi K.,60,6.9,1.02,0.8,0 of 3,Low risk,Standard follow-up,2026-06-07
+Isreal Z.,75,8.6,0.81,1.1,2 of 3,MODERATE RISK,Aggressive optimisation + monthly review,2026-06-07
