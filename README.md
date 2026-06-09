@@ -1,4 +1,4 @@
-# Clinirisk-pad
+# Clinrisk-pad
 Clinical decision support tool for PAD risk stratification in diabetic patients
 ClinRisk-PAD — Peripheral Arterial Disease Risk Stratification Tool
 An open-source clinical decision support tool that identifies diabetic patients at highest risk of progression to critical limb-threatening ischemia and lower limb amputation.
